@@ -1,0 +1,91 @@
+nav.navbar.navbar-default {
+    margin-bottom: 0px;
+}
+ul.nav.navbar-nav {
+    display: inline-block;
+    margin-left: -340px;
+}
+.container-fluid {
+    margin-left: -355px !important;
+}
+a.navbar-brand {
+    font-size: 27px;
+    font-weight: 700;
+}
+section{
+    width:100%;
+    height:600px;
+}
+.thanhvien {
+    margin-bottom:50px;
+    margin-top: 40px;
+}
+.thanhvien h4 {
+    margin-bottom: 45px;
+    margin-left: 455px;
+    font-family: Roboto Slab,Palatino,Cambria,Droid Serif,Georgia,Times New Roman,Times,serif;
+    font-size: 30px;
+}
+.id {
+    margin-bottom: -6px;
+    text-align: center;
+}
+.id p {
+     font-family: Roboto Slab,Palatino,Cambria,Droid Serif,Georgia,Times New Roman,Times,serif;
+    color: gray;
+}
+footer{
+    width:100%;
+    height:400px;
+    background-color:#f4f7fc;
+}
+footer h5 {
+    font-family: Roboto Slab,Palatino,Cambria,Droid Serif,Georgia,Times New Roman,Times,serif;
+    font-size: 61px;
+    margin-left: 125px;
+    margin-top: 42px;
+    font-weight: 800;
+    color: burlywood;
+}
+.col-md-7{
+    margin-top:20px;
+}
+.col-md-7 p {
+    font-size: 16px;
+    color: gray;
+}
+.col-md-4 a {
+    font-size: 18px;
+    color: gray;
+}
+.col-md-4 h3 {
+    font-family: Roboto Slab,Palatino,Cambria,Droid Serif,Georgia,Times New Roman,Times,serif;
+    font-size: 24px;
+    color: cadetblue;
+}
+i.fab.fa-facebook-square {
+    color: cornflowerblue;
+    font-size: 40px;
+    margin-right: 7px;
+}
+i.fab.fa-google-plus-g {
+    color: darkred;
+    font-size: 40px;
+    margin-right: 7px;
+}
+i.fab.fa-instagram {
+    color: palevioletred;
+    font-size: 40px;
+    margin-right: 7px;
+}
+i.far.fa-user-circle {
+    font-size: 39px;
+}
+i.fab.fa-youtube {
+    color: red;
+    font-size: 44px;
+}
+.id a {
+    margin-left: 28px;
+}
+
