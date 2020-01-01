@@ -25,15 +25,7 @@ section{
     width:100%;
     height:500px;
 }
-.welcome {
-    padding-top: 208px;
-}
-.welcome p {
-    font-family: Roboto Slab,Palatino,Cambria,Droid Serif,Georgia,Times New Roman,Times,serif;
-    font-size: 30px;
-    color: palevioletred;
-    font-weight: 700;
-}
+
 footer{
     width:100%;
     height:400px;

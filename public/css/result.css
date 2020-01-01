@@ -7,9 +7,6 @@ ul.nav.navbar-nav {
     display: inline-block;
     margin-left: -340px;
 }
-section {
-    font-family: Roboto Slab,Palatino,Cambria,Droid Serif,Georgia,Times New Roman,Times,serif !important;
-}
 .container-fluid {
     margin-left: -355px !important;
 }
@@ -17,27 +14,16 @@ a.navbar-brand {
     font-size: 27px;
     font-weight: 700;
 }
-section{
-    text-align: center;
-    background-repeat: none;
-    background-size: cover;
-    background-image: url('http://ntt.edu.vn/web/upload/images/cate_HTDN.jpg');
-    width:100%;
-    height:500px;
-}
-.welcome {
-    padding-top: 208px;
-}
-.welcome p {
-    font-family: Roboto Slab,Palatino,Cambria,Droid Serif,Georgia,Times New Roman,Times,serif;
-    font-size: 30px;
-    color: palevioletred;
-    font-weight: 700;
+section h3 {
+    margin-bottom: 19px;
 }
 footer{
     width:100%;
     height:400px;
     background-color:#f4f7fc;
+}
+section {
+    font-family: Roboto Slab,Palatino,Cambria,Droid Serif,Georgia,Times New Roman,Times,serif !important;
 }
 footer h5 {
     font-family: Roboto Slab,Palatino,Cambria,Droid Serif,Georgia,Times New Roman,Times,serif;
@@ -46,6 +32,11 @@ footer h5 {
     margin-top: 42px;
     font-weight: 800;
     color: burlywood;
+}
+button.btn.btn-primary {
+    width: 150px;
+    margin-top: 18px;
+    margin-left: 29px;
 }
 .col-md-7{
     margin-top:20px;
@@ -77,6 +68,19 @@ i.fab.fa-instagram {
     color: palevioletred;
     font-size: 40px;
     margin-right: 7px;
+}
+.panel-evalu li {
+    line-height: 25px;
+    list-style: none;
+}
+.panel-evalu {
+    padding-top: 5px;
+    border-bottom: 1px solid whitesmoke;
+    padding-bottom: 11px;
+}
+section {
+    margin-top: 15px;
+    margin-bottom: 55px;
 }
 
 

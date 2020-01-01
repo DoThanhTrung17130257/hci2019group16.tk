@@ -2,8 +2,13 @@ nav.navbar.navbar-default {
     margin-bottom: 0px;
 }
 ul.nav.navbar-nav {
+    padding-left: 85px;
+    margin-right: -249px;
     display: inline-block;
     margin-left: -340px;
+}
+section {
+    font-family: Roboto Slab,Palatino,Cambria,Droid Serif,Georgia,Times New Roman,Times,serif !important;
 }
 .container-fluid {
     margin-left: -355px !important;
@@ -24,7 +29,6 @@ a.navbar-brand {
 }
 section{
     width:100%;
-    height:500px;
 }
 ul.nav.nav-pills {
     border-bottom: 1px solid whitesmoke !important;
@@ -91,4 +95,38 @@ i.fab.fa-youtube {
 .id a {
     margin-left: 28px;
 }
-
+.tab-content {
+    margin-top: 20px;
+}
+button.btn.btn-info.collapsed {
+    width: 100%;
+}
+button.btn.btn-info {
+    width: 100%;
+}
+section {
+    margin-bottom: 150px;
+}
+button.btn.btn-warning {
+    margin-bottom: 84px;
+    margin-left: 197px;
+    margin-top: 10px;
+}
+section{
+    font-family: 'Quicksand', sans-serif ,'Lato', sans-serif !important;
+}
+.download-all {
+    margin-right: 66px;
+    padding-left: 216px;
+    margin-top: -74px;
+    border-top: 1px solid whitesmoke;
+    margin-left: 66px;
+}
+.download-all button.btn.btn-warning {
+    font-size: 20px;
+}
+button.btn.btn-info {
+    line-height: 20px;
+    margin-bottom: 5px;
+    width: 100%;
+}
