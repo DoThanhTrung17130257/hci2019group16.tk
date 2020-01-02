@@ -10,6 +10,9 @@ ul.nav.navbar-nav {
 .container-fluid {
     margin-left: -355px !important;
 }
+.name {
+    margin-left: 78px;
+}
 a.navbar-brand {
     font-size: 27px;
     font-weight: 700;
