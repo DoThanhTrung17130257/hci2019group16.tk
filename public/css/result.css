@@ -11,7 +11,7 @@ ul.nav.navbar-nav {
     margin-left: -355px !important;
 }
 .name {
-    margin-left: 89px !important;
+    padding-left: 87px;
 }
 a.navbar-brand {
     font-size: 27px;
